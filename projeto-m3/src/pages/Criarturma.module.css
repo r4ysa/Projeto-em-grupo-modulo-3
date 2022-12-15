@@ -1,0 +1,13 @@
+.criarturma_container{
+    width: 450px;
+    margin: 0 auto;
+    padding: 3em;
+}
+
+.criarturma_container h1{
+    margin-bottom: 0.5em;
+}
+
+.criarturma_conatainer p{
+    color: #7b7b7b;
+}
